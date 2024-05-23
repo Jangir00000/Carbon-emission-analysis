@@ -1,6 +1,8 @@
 # Carbon Footprint Analysis Project
 
-![Carbon Footprint](pollution.jpg)
+![pollution](https://github.com/Jangir00000/Carbon-emission-analysis/assets/142237692/2eb81e70-d22f-44bf-8338-5f5d83f00a52)
+
+
 
 Photo by Maxim Tolchinskiy on Unsplash
 
